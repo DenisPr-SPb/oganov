@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.86ab0cce.css",
+    "main.js": "/static/js/main.f5f3bb87.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/oganovHeader.jpg": "/static/media/oganovHeader.56489999d6342d977634.jpg",
+    "static/media/oganovWork.jpg": "/static/media/oganovWork.3561961d1720311b31ea.jpg",
+    "index.html": "/index.html",
+    "main.86ab0cce.css.map": "/static/css/main.86ab0cce.css.map",
+    "main.f5f3bb87.js.map": "/static/js/main.f5f3bb87.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86ab0cce.css",
+    "static/js/main.f5f3bb87.js"
+  ]
+}
