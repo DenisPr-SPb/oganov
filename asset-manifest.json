@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.86ab0cce.css",
-    "main.js": "/static/js/main.f5f3bb87.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/oganovHeader.jpg": "/static/media/oganovHeader.56489999d6342d977634.jpg",
-    "static/media/oganovWork.jpg": "/static/media/oganovWork.3561961d1720311b31ea.jpg",
-    "index.html": "/index.html",
-    "main.86ab0cce.css.map": "/static/css/main.86ab0cce.css.map",
-    "main.f5f3bb87.js.map": "/static/js/main.f5f3bb87.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/oganov/static/css/main.39e41c76.css",
+    "main.js": "/oganov/static/js/main.9061a10e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/oganov/static/js/787.28cb0dcd.chunk.js",
+    "static/media/oganovHeader.jpg": "/oganov/static/media/oganovHeader.56489999d6342d977634.jpg",
+    "static/media/oganovWork.jpg": "/oganov/static/media/oganovWork.3561961d1720311b31ea.jpg",
+    "index.html": "/oganov/index.html",
+    "main.39e41c76.css.map": "/oganov/static/css/main.39e41c76.css.map",
+    "main.9061a10e.js.map": "/oganov/static/js/main.9061a10e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/oganov/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.86ab0cce.css",
-    "static/js/main.f5f3bb87.js"
+    "static/css/main.39e41c76.css",
+    "static/js/main.9061a10e.js"
   ]
 }
